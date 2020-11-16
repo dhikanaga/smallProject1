@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>denied_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8494e7ea-961c-4eec-b114-80decde0fcc9</testCaseGuid>
+   <variable>
+      <defaultValue>'4911111111111113'</defaultValue>
+      <description></description>
+      <id>3efd7a88-9ea9-49ff-ab50-7b8fbed379b5</id>
+      <masked>false</masked>
+      <name>cardNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'0125'</defaultValue>
+      <description></description>
+      <id>9e73cad3-6498-4892-b2a5-da9703593e07</id>
+      <masked>false</masked>
+      <name>expiry</name>
+   </variable>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>e0258f04-8fdb-4e63-8d1a-e97b63d70b88</id>
+      <masked>false</masked>
+      <name>cvv</name>
+   </variable>
+   <variable>
+      <defaultValue>'112233'</defaultValue>
+      <description></description>
+      <id>c0c3f1bf-cf4a-4116-9576-ea4293a65509</id>
+      <masked>false</masked>
+      <name>otp</name>
+   </variable>
+</TestCaseEntity>

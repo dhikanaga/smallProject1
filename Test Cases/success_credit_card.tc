@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>success_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05a487ab-4ce3-4f51-be99-a9a81cab4a05</testCaseGuid>
+   <variable>
+      <defaultValue>'4811111111111114'</defaultValue>
+      <description></description>
+      <id>ff2a98ed-b2ac-4e06-a0f1-2dac091468e8</id>
+      <masked>false</masked>
+      <name>cardNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'0125'</defaultValue>
+      <description></description>
+      <id>7278004e-f91b-46d1-b133-30ca3c013290</id>
+      <masked>false</masked>
+      <name>expiry</name>
+   </variable>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>b1fefb93-a1c2-4db1-8698-94fefd1780d2</id>
+      <masked>false</masked>
+      <name>cvv</name>
+   </variable>
+   <variable>
+      <defaultValue>'112233'</defaultValue>
+      <description></description>
+      <id>435071ad-7d4a-40df-9aa9-9fabec694019</id>
+      <masked>false</masked>
+      <name>otp</name>
+   </variable>
+</TestCaseEntity>

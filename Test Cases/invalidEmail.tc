@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>invalidEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bb3f062-6b88-4880-a527-e5ec50ac9ba9</testCaseGuid>
+   <variable>
+      <defaultValue>'budiutomo'</defaultValue>
+      <description></description>
+      <id>d6b790b1-76ac-45aa-bc85-4be5e88eda72</id>
+      <masked>false</masked>
+      <name>invalidEmail</name>
+   </variable>
+</TestCaseEntity>

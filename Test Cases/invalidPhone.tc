@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>invalidPhone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>438cfb39-2fbc-43a5-92c2-c838f7796136</testCaseGuid>
+   <variable>
+      <defaultValue>'4811111111111114'</defaultValue>
+      <description></description>
+      <id>23fbf8e4-3aec-455d-b983-24b3670cf015</id>
+      <masked>false</masked>
+      <name>card</name>
+   </variable>
+   <variable>
+      <defaultValue>'0125'</defaultValue>
+      <description></description>
+      <id>7c83c40f-0fb6-49d4-b82b-2399e88edc88</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>f2d5a4b2-18d9-49ad-bdfa-ab11d21f3ca5</id>
+      <masked>false</masked>
+      <name>cvv</name>
+   </variable>
+   <variable>
+      <defaultValue>'112233'</defaultValue>
+      <description></description>
+      <id>b6db793e-ad97-418f-b1bf-e3a1b0b8a983</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>
